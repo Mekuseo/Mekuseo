@@ -5,9 +5,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Kanu Chukwuemeka</h1>
-<h3 align="center">A passionate FullStack developer from Nigeria</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekuseo&label=Profile%20views&color=0e75b6&style=flat" alt="mekuseo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mekuseo" alt="mekuseo" /></a> </p>
